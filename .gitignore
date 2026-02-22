@@ -1,0 +1,18 @@
+# ----------------------------
+# Jupyter Notebook files
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Python cache / compiled files
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------------
+# OS generated files
+# ----------------------------
+.DS_Store
+Thumbs.db
