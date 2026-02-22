@@ -107,9 +107,13 @@ Run the following command in the project root directory:
 
 ```bash
 pip install -r requirements.txt
+
+```
 ---
 ## Run the Dashboard
 
 ### Start the Streamlit application using:
-                streamlit run app.py
+
+    streamlit run app.py
 ---
+
